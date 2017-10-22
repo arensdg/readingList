@@ -1,2 +1,2 @@
 # readingList
-reading List project from Spring MVC 4 (use with STS)
+reading List project from Spring Boot In Action (use with STS)
